@@ -8,7 +8,7 @@ const fs = require("fs");
 const OUTPUT_DIR = path.resolve(__dirname, "output")
 const outputPath = path.join(OUTPUT_DIR, "Roster.html");
 
-const render = require("./page-template.js");
+const render = require("./page-temp");
 
 const teamMembers = [];
 const idArray = [];
