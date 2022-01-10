@@ -1,0 +1,22 @@
+{
+  "name": "rosterchallenge",
+  "version": "1.0.0",
+  "description": "Roster Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasqc/RosterChallenge.git"
+  },
+  "author": "CV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasqc/RosterChallenge/issues"
+  },
+  "homepage": "https://github.com/vasqc/RosterChallenge#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
